@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "description": "Designed and developed a responsive personal website using React and Tailwind CSS to showcase projects, skills, and experience.Implemented a clean, modern UI with reusable components and optimized layouts for accessibility and mobile responsiveness.Integrated interactive features such as dynamic project listings and smooth navigation to create an engaging user experience.",
+    "github_link": "https://github.com/armind76"
+  },
+  {
+    "title": "C based light weight 2D game engine",
+    "description": "Following the Handmade hero series, enabled me to create a Built a lightweight 2D game engine in C, implementing core systems including rendering, input handling, physics, and asset management. Designed modular architecture with efficient memory management and low-level optimizations for performance. Developed custom data structures to manage sprites, collisions, and game loops, ensuring smooth frame rates. Documented the engine and created sample demos to showcase functionality for future extensions and game development.",
+    "github_link": "https://github.com/armind76"
+  },
+  {
+    "title": "Visit my main github for more",
+    "description": "There are many smaller projects including works I have done for college, tools I have made for my own daily use and my neovim configuration files.",
+    "github_link": "https://github.com/armind76"
+  }
+]

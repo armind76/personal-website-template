@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@keyframes shooting {
+0% {
+  opacity: 0.5;
+}
+50% {
+  opacity: 1;
+}
+100% {
+  transform: translateX(500px) translateY(-500px);
+  opacity: 0;
+}
+}
+
+.animate-shooting {
+animation: shooting 1s forwards; }
+
+body {
+  background-color: #070e14;
+}
